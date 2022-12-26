@@ -1,0 +1,26 @@
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\DnsClient.dll
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\Sharprompt.dll
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\de-DE\Sharprompt.resources.dll
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\ja\Sharprompt.resources.dll
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\dbd_region-changer.csproj.AssemblyReference.cache
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\dbd_region-changer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\dbd_region-changer.AssemblyInfoInputs.cache
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\dbd_region-changer.AssemblyInfo.cs
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\dbd_region-changer.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\dbd_region-changer.csproj.CopyComplete
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\dbd_region-changer.genruntimeconfig.cache
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\build\Debug\net7.0-windows\DBD_Region_Change.exe
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\build\Debug\net7.0-windows\DBD_Region_Change.deps.json
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\build\Debug\net7.0-windows\DBD_Region_Change.runtimeconfig.json
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\build\Debug\net7.0-windows\DBD_Region_Change.dll
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\build\Debug\net7.0-windows\DBD_Region_Change.pdb
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\DBD Region Change.exe
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\DBD Region Change.deps.json
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\DBD Region Change.runtimeconfig.json
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\DBD Region Change.dll
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Debug\net7.0-windows\DBD Region Change.pdb
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\DBD Region Change.dll
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\refint\DBD Region Change.dll
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\DBD Region Change.pdb
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\obj\Debug\net7.0-windows\ref\DBD Region Change.dll

@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>dbd_region_changer</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>E8g-cjpWUAAR9jb.ico</ApplicationIcon>
+    <AssemblyName>DBD Region Change</AssemblyName>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <BaseOutputPath></BaseOutputPath>
+    <Copyright>TehRamsus</Copyright>
+    <Description>Change Dead By Daylight Region</Description>
+    <Company>TehRamsus</Company>
+    <PackageIcon>E8g-cjpWUAAR9jb.ico</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="E8g-cjpWUAAR9jb.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Downloads\E8g-cjpWUAAR9jb.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DnsClient" Version="1.7.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="Sharprompt" Version="2.4.5" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Release\net7.0-windows\publish\win-x64\DBD Region Change.pdb
+C:\Users\Rasmus\Desktop\Projektit\VS\dbd_region-changer\dbd_region-changer\bin\Release\net7.0-windows\publish\win-x64\DBD Region Change.exe

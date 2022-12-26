@@ -1,0 +1,15 @@
+52.94.53.31 gamelift.us-east-2.amazonaws.com
+52.94.53.31 gamelift.us-east-1.amazonaws.com
+52.94.53.31 gamelift.us-west-1.amazonaws.com
+52.94.53.31 gamelift.us-west-2.amazonaws.com
+52.94.53.31 gamelift.ap-south-1.amazonaws.com
+52.94.53.31 gamelift.ap-northeast-2.amazonaws.com
+52.94.53.31 gamelift.ap-southeast-1.amazonaws.com
+52.94.53.31 gamelift.ap-southeast-2.amazonaws.com
+52.94.53.31 gamelift.ap-northeast-1.amazonaws.com
+52.94.53.31 gamelift.ca-central-1.amazonaws.com
+52.94.53.31 gamelift.cn-north-1.amazonaws.com.cn
+52.94.53.31 gamelift.eu-central-1.amazonaws.com
+52.94.53.31 gamelift.eu-west-1.amazonaws.com
+52.94.53.31 gamelift.sa-east-1.amazonaws.com
+#RMEDIT#
